@@ -1,5 +1,5 @@
 # phaser3-electron [![dependencies status badge](https://david-dm.org/digitsensitive/phaser3-electron/status.svg?style=flat-square)](https://david-dm.org/digitsensitive/phaser3-electron) [![development dependencies status badge](https://david-dm.org/digitsensitive/phaser3-electron/dev-status.svg?style=flat-square)](https://david-dm.org/digitsensitive/phaser3-electron/?type=dev)
-Boilerplate for your Phaser 3 electron app
+Boilerplate for a Phaser 3 electron app
 
 
 ## Installation
